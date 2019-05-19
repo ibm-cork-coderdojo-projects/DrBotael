@@ -120,4 +120,4 @@ async def on_message(msg):
 
 
 
-bot.run("NTM4NzQ3MTg1MjM2NDEwMzc4.Dy4S8g.VKQA9weOZOprQn7z1X5Kl8mdzcc")
+bot.run(BOT_API_KEY)
